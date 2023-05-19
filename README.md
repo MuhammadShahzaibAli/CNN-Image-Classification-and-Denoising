@@ -11,4 +11,4 @@ The project includes the following key components:
 
 4. Fine-tuning with Denoised Images: The denoised images are then used to fine-tune the CNN classifier. By utilizing the denoised images as input, the classifier achieves a classification accuracy of 85%, demonstrating the effectiveness of the denoising autoencoder in improving classification performance.
 
-The repository provides the complete source code, including the implementation of the CNN classifier, denoising autoencoder, and necessary preprocessing steps. It also includes instructions on how to train and evaluate the models. Developers and machine learning enthusiasts can leverage this repository to study, and  reproduce the project's findings
+The repository provides the complete source code, including the implementation of the CNN classifier, denoising autoencoder, and necessary preprocessing steps. It also includes instructions on how to train and evaluate the models. Developers and machine learning enthusiasts can leverage this repository to study, and  reproduce the project's findings.
